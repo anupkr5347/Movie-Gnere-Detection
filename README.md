@@ -1,1 +1,0 @@
-# Movie-Gnere-Detection
